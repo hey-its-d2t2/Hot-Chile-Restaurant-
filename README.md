@@ -1,6 +1,11 @@
-# Hot-Chile-Restaurant-
+![Screenshot (572)](https://github.com/hey-its-d2t2/Hot-Chile-Restaurant-/assets/63626210/66fce833-5576-40f1-9641-8871da1d04ea)# Hot-Chile-Restaurant-
 Compleate resturant managment system using language C# with MySQL Database. 
-![Screenshot (230)](https://github.com/hey-its-d2t2/Hot-Chile-Restaurant-/assets/63626210/46c76da5-eecd-4f26-a828-70eb507c6890)
+
+
+![Screenshot (572)](https://github.com/hey-its-d2t2/Hot-Chile-Restaurant-/assets/63626210/e1268b65-eb56-4cbc-b4c2-64e9a19da607)
+
+![Screenshot (573)](https://github.com/hey-its-d2t2/Hot-Chile-Restaurant-/assets/63626210/82c51fca-3827-4b78-a05f-a44b4dca946b)
+
 ![Screenshot (232)](https://github.com/hey-its-d2t2/Hot-Chile-Restaurant-/assets/63626210/0944cb17-ccba-4851-bd18-619d5a728275)
 ![Screenshot (233)](https://github.com/hey-its-d2t2/Hot-Chile-Restaurant-/assets/63626210/3088d997-7df7-4997-9905-32dafe60bea3)
 ![Screenshot (234)](https://github.com/hey-its-d2t2/Hot-Chile-Restaurant-/assets/63626210/f1418cd1-41c7-4dce-a720-a4aa03b44e79)
