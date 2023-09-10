@@ -1,4 +1,3 @@
-![Screenshot (572)](https://github.com/hey-its-d2t2/Hot-Chile-Restaurant-/assets/63626210/66fce833-5576-40f1-9641-8871da1d04ea)# Hot-Chile-Restaurant-
 Compleate resturant managment system using language C# with MySQL Database. 
 
 
